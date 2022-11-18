@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**patkleef/patkleef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cloud consultant working for Xpirit.
+- 💬 Ask me about Azure
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-patkleef-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patkleef)
 
-Here are some ideas to get you started:
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patkleef&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patkleef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### ✍️ Blog Posts : 
+- [Automatically rotate the password of a service principal
+](https://www.patrickvankleef.com/2022/11/09/rotate-service-principal-password)
